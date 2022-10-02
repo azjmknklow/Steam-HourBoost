@@ -1,0 +1,10 @@
+{
+    "main": "bot.js",
+    "dependencies": {
+      "steam-user": "^4.19.10",
+      "steam-totp": "^2.1.1"
+    },
+    "engines": {
+      "node": "12.x"
+    }
+  }
